@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lori Lawson Handley"
+title: "Lori Lawson Handley's GitHub page"
 author_profile: true
 redirect_from: 
   - /about/
